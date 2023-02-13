@@ -10,7 +10,6 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Visual Studio code
