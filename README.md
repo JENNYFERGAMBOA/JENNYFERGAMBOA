@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Git | Firebase
 - 🔧 &nbsp; Visual Studio code
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | FIGMA
 
