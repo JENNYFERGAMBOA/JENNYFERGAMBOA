@@ -19,8 +19,11 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/jennyfer-gamboa" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/jennyfer-gamboa" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:jennyfergamboaaponte@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  &nbsp; <a href="https://www.behance.net/jennyfergamboa" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/null/behance.png"/></a>
 </p>
 
 <!---
